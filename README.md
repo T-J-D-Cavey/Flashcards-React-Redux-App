@@ -1,10 +1,10 @@
 # Flashcards - React / Redux practice project
 
-Link to the deployed app here: (link to be added)
+Link to the deployed app here: https://flashcards-quiz-app.netlify.app/
 
 This is a project that's part of the Codecademy 'front-end engineer' course. 
 
-Its aim is to practice using Redux and Redux Toolkit to manage the complex state of a flashcard-style quiz app.
+Its aim is to practice using React and Redux Toolkit to manage the complex state of a flashcard-style quiz app.
 
 ## What does this app do?
 
